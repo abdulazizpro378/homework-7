@@ -1,0 +1,38 @@
+footer {
+  height: 144px;
+  left: 0px;
+  top: 2918px;
+
+  background: #1391ce;
+}
+
+.lou {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.darma {
+  width: 1120px;
+  height: 1px;
+
+  margin-top: 32px;
+
+  background: #e3e3e3;
+}
+
+.pass {
+  display: flex;
+  justify-content: space-between;
+}
+
+.kur {
+  margin-top: 21px;
+}
+
+.kur a {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 134.3%;
+  color: #302e2f;
+}
